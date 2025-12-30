@@ -1,0 +1,7 @@
+{
+  "name": "SecureRAG Enterprise Dashboard",
+  "description": "An access-controlled Retrieval-Augmented Generation system for enterprises, featuring role-based access, document management, and intelligent AI assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
